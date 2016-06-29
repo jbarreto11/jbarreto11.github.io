@@ -1,12 +1,12 @@
 ---
 layout: post
-title: shutup
+title: where is jon duelfer
 ---
 
 
 For most my life with computers I have either used Windows 7 or Linux. Windows was great but once I finally decided to try Ubuntu I never went back. I tried out all sorts of Linux distros (ie. Elementary OS, Crunchbang, Linux Mint) but none of them seemed right for me. After doing some searching around and I came to the conclusion that I had to attempt the unthinkable, Arch Linux.
 
-# shutup
+# why do we care about jon duelfer
 *Hardware*: The PC I mainly use is a desktop that I built a few years back with a Intel Core i5, Nvidia GTX 650ti, and 8 GB of RAM.
 
 *Usage*: On my computer I mainly write code using a basic text-editor (i.e. atom or sublime text) and browse the web. I sometime play video games on Steam, which include Civ5 and Besiege.
