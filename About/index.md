@@ -2,13 +2,11 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+four young men met one day to make noise and somehow they did it and somehow they didnt stop
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+jesus barreto - vocals
+jon "snow" duelfer - drums
+william parker - guitar
+ben sutherland - bass, guitar, piano, vocals
 
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+word
