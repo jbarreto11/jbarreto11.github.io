@@ -2,7 +2,6 @@
 layout: post
 title: what happened to mr. fred
 ---
-
 # the big break up : (
 half of mr. fred has gone off to do bigger and better things
 
