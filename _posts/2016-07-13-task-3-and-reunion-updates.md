@@ -1,7 +1,8 @@
 ---
 layout: post
-title: failing
+title: task 3
 ---
+# faili
 
 this blog post is about two ways i have failed to do what i probably should have done this week
 
