@@ -2,7 +2,7 @@
 layout: post
 title: task 3
 ---
-# faili
+# failing
 
 this blog post is about two ways i have failed to do what i probably should have done this week
 
@@ -10,7 +10,8 @@ for my info science class, i was meant to convert a file to different formats (h
 
 this markdown file highlights the second failure i was talking about - not texting ben back aka once again prolonging the long-awaited mr. fred reunion
 
-## either way
+# either way
+
 
 i completed the assignment by creating a script that automatically converted the mardown file i made to an html, docx, odt, and pdf file by utilizing the command pandoc -o $file.(what i wanted to convert to) $file.md
 
