@@ -1,6 +1,11 @@
 ---
 layout: post
-title: presentation
+title: informacion
 ---
+you are invited
 
-[Presentation](https://jbarreto11.github.io/task-6-be-presentable/#/marsupials)
+do not drive here
+pregame before bcause not rich
+DO NOT INVITE OTHERS ONLY THOSE WHOM LINK IS SENT TO WILL BE ALLOWED (or else this will be cancelled)
+hugs not drugs mofos
+NO ONE UNDER 21 ALLOWED
