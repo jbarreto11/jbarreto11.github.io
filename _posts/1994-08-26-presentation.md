@@ -1,6 +1,6 @@
 ---
 layout: post
-title: informacion
+title: informacion (CLICK ME)
 ---
 you are invited
 
